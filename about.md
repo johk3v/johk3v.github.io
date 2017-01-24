@@ -4,21 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+Welcome to my page. I started this as sort of a way to learn a little bit of programming and also publish my works, whatever that may be.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+I have a ton of interests, as you've likely seen already on my site. I love staying active, playing hockey, soccer, and golf whenever possible. In my downtime, I spend time with my family, look for photoshoot opportunities, or do my best to further my career.
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+Ideally this site will host a few things:
+* Professional Projects
+* Photography/Video Projects
+* Blog Posts
+* Miscellaneous Hoopla
+
+I'll try to keep my discussion and posting to a neutral topic to induce discussion.
+
+I'm sure you'll come across part of the site that's unfinished... I'm working on it, I promise.
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Network Security Degree - Davenport University
+* Cisco Certified Network Associate
 
 ## Roles
 
-Founder, ABC Organisation
+Systems Engineer, The KR Group, Inc.
 
 ## Skills
 
@@ -52,4 +59,4 @@ Founder, ABC Organisation
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[k3vjohnston@gmail.com](mailto:k3vjohnston@gmail.com)

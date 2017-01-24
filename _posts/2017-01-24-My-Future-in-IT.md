@@ -1,6 +1,8 @@
+---
 layout: post
 title: My Future in IT
 author: j0hk3v
+---
 
 So, this is again new to me. I actually might end up going back to school because I'm not seeing enough opportunity here in the Networking/Network Security field. It could partially be lack of effort, however I don't think where I'm at now is going to further my goals and career.
 

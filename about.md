@@ -8,7 +8,7 @@ Welcome to my page. I started this as sort of a way to learn a little bit of pro
 
 I have a ton of interests, as you've likely seen already on my site. I love staying active, playing hockey, soccer, and golf whenever possible. In my downtime, I spend time with my family, look for photoshoot opportunities, or do my best to further my career.
 
-Ideally this site will host a few things:
+## Purpose
 * Professional Projects
 * Photography/Video Projects
 * Blog Posts
